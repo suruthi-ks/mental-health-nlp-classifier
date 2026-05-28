@@ -1,0 +1,23 @@
+# Data files — download from Kaggle, do not commit
+*.csv
+*.zip
+*.csv.zip
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
